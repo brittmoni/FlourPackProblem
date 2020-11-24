@@ -29,6 +29,9 @@ public class Main {
             } else if((bigCount == 0) && ((smallCount * smallWeight) >= goal)) {
                 System.out.println(true);
                 return true;
+            } else if(((bigCount > 0) && (smallCount > 0)) && ((bigCount * bigWeight) % goal == 0)) {
+                System.out.println(true);
+                return true;
             }
         }
 

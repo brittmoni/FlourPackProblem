@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f8b5545-c61e-4654-be6f-3acebc814edf" name="Default Changelist" comment="" />
+    <list default="true" id="8f8b5545-c61e-4654-be6f-3acebc814edf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fT6ErarKC2X0RYI3QooIg7Wil8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,41 +48,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="678" y="354" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601849518293">
+    <state x="678" y="354" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607226535735">
       <screen x="60" y="23" width="1860" height="1177" />
     </state>
-    <state x="678" y="354" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/60.23.1860.1177@60.23.1860.1177" timestamp="1601849518293" />
-    <state width="1818" height="225" key="GridCell.Tab.0.bottom" timestamp="1604461884694">
+    <state x="678" y="354" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/60.23.1860.1177@60.23.1860.1177" timestamp="1607226535735" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1605556015283">
       <screen x="60" y="23" width="1860" height="1177" />
     </state>
-    <state width="908" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596666320528" />
-    <state width="1353" height="231" key="GridCell.Tab.0.bottom/1440.23.1280.1001/44.23.1396.877@44.23.1396.877" timestamp="1596234619275" />
-    <state width="1353" height="231" key="GridCell.Tab.0.bottom/1440.23.1280.1001/45.23.1395.877@45.23.1395.877" timestamp="1596232752321" />
-    <state width="1818" height="225" key="GridCell.Tab.0.bottom/55.23.1865.1177@55.23.1865.1177" timestamp="1597982132484" />
-    <state width="1818" height="225" key="GridCell.Tab.0.bottom/60.23.1860.1177@60.23.1860.1177" timestamp="1604461884694" />
-    <state width="1818" height="225" key="GridCell.Tab.0.center" timestamp="1604461884693">
+    <state width="908" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1605071830732" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/60.23.1860.1177@60.23.1860.1177" timestamp="1605556015283" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1605556015282">
       <screen x="60" y="23" width="1860" height="1177" />
     </state>
-    <state width="908" height="231" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596666320526" />
-    <state width="1353" height="231" key="GridCell.Tab.0.center/1440.23.1280.1001/44.23.1396.877@44.23.1396.877" timestamp="1596234619274" />
-    <state width="1353" height="231" key="GridCell.Tab.0.center/1440.23.1280.1001/45.23.1395.877@45.23.1395.877" timestamp="1596232752320" />
-    <state width="1818" height="225" key="GridCell.Tab.0.center/55.23.1865.1177@55.23.1865.1177" timestamp="1597982132483" />
-    <state width="1818" height="225" key="GridCell.Tab.0.center/60.23.1860.1177@60.23.1860.1177" timestamp="1604461884693" />
-    <state width="1818" height="225" key="GridCell.Tab.0.left" timestamp="1604461884693">
+    <state width="908" height="225" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1605071830730" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center/60.23.1860.1177@60.23.1860.1177" timestamp="1605556015282" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1605556015282">
       <screen x="60" y="23" width="1860" height="1177" />
     </state>
-    <state width="908" height="231" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596666320526" />
-    <state width="1353" height="231" key="GridCell.Tab.0.left/1440.23.1280.1001/44.23.1396.877@44.23.1396.877" timestamp="1596234619274" />
-    <state width="1353" height="231" key="GridCell.Tab.0.left/1440.23.1280.1001/45.23.1395.877@45.23.1395.877" timestamp="1596232752320" />
-    <state width="1818" height="225" key="GridCell.Tab.0.left/55.23.1865.1177@55.23.1865.1177" timestamp="1597982132482" />
-    <state width="1818" height="225" key="GridCell.Tab.0.left/60.23.1860.1177@60.23.1860.1177" timestamp="1604461884693" />
-    <state width="1818" height="225" key="GridCell.Tab.0.right" timestamp="1604461884694">
+    <state width="908" height="225" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1605071830730" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left/60.23.1860.1177@60.23.1860.1177" timestamp="1605556015282" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1605556015283">
       <screen x="60" y="23" width="1860" height="1177" />
     </state>
-    <state width="908" height="231" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596666320527" />
-    <state width="1353" height="231" key="GridCell.Tab.0.right/1440.23.1280.1001/44.23.1396.877@44.23.1396.877" timestamp="1596234619275" />
-    <state width="1353" height="231" key="GridCell.Tab.0.right/1440.23.1280.1001/45.23.1395.877@45.23.1395.877" timestamp="1596232752321" />
-    <state width="1818" height="225" key="GridCell.Tab.0.right/55.23.1865.1177@55.23.1865.1177" timestamp="1597982132483" />
-    <state width="1818" height="225" key="GridCell.Tab.0.right/60.23.1860.1177@60.23.1860.1177" timestamp="1604461884694" />
+    <state width="908" height="225" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1605071830731" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right/60.23.1860.1177@60.23.1860.1177" timestamp="1605556015283" />
   </component>
 </project>

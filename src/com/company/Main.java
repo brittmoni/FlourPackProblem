@@ -14,15 +14,24 @@ public class Main {
     }
 
     public static boolean canPack(int bigCount, int smallCount, int goal) {
+
+        int bigWeight = 5;
+
         if(bigCount < 0 || smallCount < 0 || goal < 0) {
             return false;
         }
 
-        if((bigCount * 5) + smallCount == goal) {
-            System.out.println(true);
-            return true;
-        } else if((bigCount * 5) + smallCount > goal) {
-
+        if((bigCount * bigWeight) + (smallCount) >= goal) {
+            if(((bigCount > 0) && (smallCount == 0)) && ((bigCount * bigWeight) % goal == 0)) {
+                System.out.println(true);
+                return true;
+            } else if((bigCount == 0) && ((smallCount) >= goal)) {
+                System.out.println(true);
+                return true;
+            } else if(((bigCount > 0) && (smallCount > 0)) && ((bigCount * bigWeight) % goal == 0)) {
+                System.out.println(true);
+                return true;
+            }
         }
 
         return false;

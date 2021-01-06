@@ -18,6 +18,7 @@ public class Main {
         int bigWeight = 5;
 
         if(bigCount < 0 || smallCount < 0 || goal < 0) {
+            System.out.println(false);
             return false;
         }
 
@@ -34,6 +35,7 @@ public class Main {
             }
         }
 
+        System.out.println(false);
         return false;
     }
 }
